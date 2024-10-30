@@ -1,6 +1,6 @@
 # Dc
 
-![](/Users/24122472/Desktop/Captura de Tela 2024-10-30 às 08.47.12.png)
+![](Captura%20de%20Tela%202024-10-30%20às%2008.47.12.png)
 
 ## Sobre
 
