@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+ul,ol,li{
+    list-style: none;
+}
+html, body{
+    scroll-behavior: smooth;
+}
+header{
+    position: fixed;
+    width: 100vw;
+    background-color: rgb(0, 0, 0);
+    padding: 30px;
+
+}
+header nav ul{
+    display: flex;
+    gap: 98px;
+    
+}
+header nav ul a{
+    color: white;
+    padding: 20px;
+    transition: 0.7s;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400;
+    
+}
+header nav ul a:hover{
+    color: black;
+    background-color: rgb(255, 255, 255);
+    
+}
+.grupo{
+    height: 97dvh;
+}
+#vermelho{
+   background-image: url(Batman.png);
+   border-style: outset;
+}
+#verde{
+   background-image: url(Spman.png);
+   border-style: outset;
+}
+#azul{
+    background-image: url(MM.png);
+    border-style: groove;
+}
+#amarelo{
+    background-image: url(Aquaman.png);
+    border-style: groove;
+}
+#roxo{
+    background-image: url(CBG.png);
+    border-style: groove;
+}
